@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2125.9841"
+   height="3543.3069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   inkscape:export-filename="/home/aliceinwonderland/Desktop/Diseno_maleta.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="diseno_corte.pdf">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21712265"
+     inkscape:cx="942.93443"
+     inkscape:cy="1794.8351"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3775"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2490.9462)">
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2985"
+       width="1984.252"
+       height="744.09448"
+       x="290.92392"
+       y="-2342.8176" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2989"
+       width="1984.252"
+       height="1417.3229"
+       x="371.73615"
+       y="-2314.5334" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2991"
+       width="1873.226"
+       height="1341.7299"
+       x="124.55373"
+       y="-2269.2913"
+       ry="212.59842"
+       rx="212.59842" />
+    <rect
+       ry="212.59842"
+       y="-534.67963"
+       x="127.63432"
+       height="1341.7299"
+       width="1873.226"
+       id="rect3048"
+       style="fill:none;stroke:#ff0000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       rx="212.59842" />
+  </g>
+</svg>
